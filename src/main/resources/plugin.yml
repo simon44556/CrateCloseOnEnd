@@ -1,0 +1,9 @@
+main: me.paint.CrateCloseOnEnd
+name: CrateCloseOnEnd
+version: '1.0'
+description: CrateCloseOnEnd
+author: Paint
+website: CrateCloseOnEnd
+depend: 
+- ExcellentCrates
+api-version: 1.17
